@@ -606,7 +606,7 @@ button {
 
 .modal-btn:hover,
 .modal-btn:focus {
-  fill: var(--white);
+  color: var(--white);
   background-color: var(--ocean);
   border-color: var(--ocean);
 }
